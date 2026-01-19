@@ -9,7 +9,7 @@ This is the UI-agnostic table component for your next web app. 😊
 <img src="https://raw.githubusercontent.com/guiexperttable/website-astro/main/src/assets/screens/heatmap.png" width="50%">
 
 ### Version compatibility
-
+ 
 
 | Angular | @guiexpert/angular-table |
 |:--------|:-------------------------|
